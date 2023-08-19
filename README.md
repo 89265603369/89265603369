@@ -70,6 +70,6 @@ await main.main(self, room_id, token)
 
 keep_alive()
 if __name__ == "__main__":
-room_id = "https://high.rs/room?id=6454da2e30bc9ce44d29e882"
-token = ""
+room_id = "6454da2e30bc9ce44d29e882"
+token = "55bfb3ae9d4389fd6d75ae4ce3c17a369cd28cde234c02d8b072a05d1605d58f"
 arun(Bot().run(room_id, token))
