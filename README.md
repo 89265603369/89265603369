@@ -1,4 +1,4 @@
-from highrise import (
+from highrise import 
 BaseBot,
 ChatEvent,
 Highrise,
